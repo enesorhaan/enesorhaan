@@ -1,4 +1,4 @@
-## Hello everyone
+## Hi everyone
 
 - I am Enes Orhan.
 - I am an electrical and electronics engineer.
