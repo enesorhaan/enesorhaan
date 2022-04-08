@@ -1,8 +1,9 @@
-## Hey, It's me!
+## Hello everyone
 
-- 👋 Hi, I’m Enes Orhan
-- 👀 I’m interested in software and hardware development.
-- 🌱 I’m currently learning embedded software and hardware design.
-- 📫 How to reach me:enes.orhan@imbrobotics.com
+- I am Enes Orhan.
+- I am an electrical and electronics engineer.
+- I am interested in software and hardware development.
+- I am currently learning embedded software and hardware design.
+- How to reach me: enes.orhan@imbrobotics.com
 
 
