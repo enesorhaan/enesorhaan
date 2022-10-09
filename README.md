@@ -1,10 +1,10 @@
 ## Hi everyone
 
-- I am Enes Orhan.
-- I am an electrical and electronics engineer.
-- I am interested in software and hardware development.
-- I am currently learning C#.
-- I am currently learning embedded software and hardware design.
-- How to reach me: enesorhan_1366@hotmail.com
+- Experienced in Eagle PCB Desgin
+- Experienced in embedded software
+- Knowledge of Communication Protocol (I2C, SPI)
+- Currently working on C#, node.js
+- Feel free to ask: enesorhan_1366@hotmail.com
+
 
 
