@@ -3,7 +3,7 @@
 - Experienced in Eagle PCB Desgin
 - Experienced in embedded software
 - Knowledge of Communication Protocol (I2C, SPI)
-- Currently working on java, node.js
+- Currently working on C#, ASP.NET
 - Feel free to ask: enesorhan_1366@hotmail.com
 
 
