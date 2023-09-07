@@ -4,11 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesorhaan&label=Profile%20views&color=0e75b6&style=flat" alt="enesorhaan" /> </p>
 
 <h3 align="center">A curious and creative engineer from Turkey</h3>
-<p>
-  <a>- Computer Engineering Master Student</a> <br>
-  <a>- Experienced in embedded software</a> <br>
-  <a>- Currently working on C#, ASP.NET CORE</a> <br>
-</p>
+<div>
+  <p>
+    - Computer Engineering Master Student <br>
+    - Experienced in embedded software <br>
+    - Currently working on C#, ASP.NET CORE <br>
+  </p>
+</div>
+
 
 <h2 align="center">Contact With Me! 📧</h2>
 <div align="center">
