@@ -1,8 +1,6 @@
 <h1 align="center">Hi there👋, I'm Enes Orhan</h1>
 <h2 align="center">👋 Backend Developer | .NET Enthusiast | Constantly Improving 🚀 </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enesorhaan&label=Profile%20views&color=0e75b6&style=flat" alt="enesorhaan" /> </p>
-
 <h3 align="center">A curious and creative engineer from Turkey</h3>
 <div>
   <p>
@@ -37,6 +35,8 @@
   <a href="https://www.w3schools.com/c" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=enesorhaan&label=Profile%20views&color=0e75b6&style=flat" alt="enesorhaan" /> </p>
 
 <h3 align="center"> What I Have Been Using So Far! 💻</h3>
 <p align="center">
