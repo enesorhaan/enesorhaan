@@ -5,9 +5,9 @@
 
 <h3 align="center">A curious and creative engineer from Turkey</h3>
 <p>
-  <a>- Computer Engineering Master Student</a>- Computer Engineering Master Student
-  <a>- Experienced in embedded software</a>
-  <a>- Currently working on C#, ASP.NET CORE</a>
+  <a>- Computer Engineering Master Student</a> <br>
+  <a>- Experienced in embedded software</a> <br>
+  <a>- Currently working on C#, ASP.NET CORE</a> <br>
 </p>
 
 <h2 align="center">Contact With Me! 📧</h2>
