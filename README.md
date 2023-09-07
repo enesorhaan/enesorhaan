@@ -4,8 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesorhaan&label=Profile%20views&color=0e75b6&style=flat" alt="enesorhaan" /> </p>
 
 <h3 align="center">A curious and creative engineer from Turkey</h3>
-
-https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-2019%29.svg
+<p>
+  - Computer Engineering Master Student
+  - Experienced in embedded software
+  - Currently working on C#, ASP.NET CORE
+</p>
 
 <h2 align="center">Contact With Me! 📧</h2>
 <div align="center">
@@ -39,13 +42,3 @@ https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-201
   </a>
 </p>
 <br>
-
-
-- Experienced in Eagle PCB Desgin
-- Experienced in embedded software
-- Knowledge of Communication Protocol (I2C, SPI)
-- Currently working on C#, ASP.NET CORE
-- Feel free to ask: enesorhan_1366@hotmail.com
-
-
-
