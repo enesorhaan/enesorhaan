@@ -27,6 +27,14 @@
   <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p>
 
+<h3 align="center"> What I Have Been Using So Far! 💻</h3>
+<p align="center">
+  <a href="#">
+    <img  href="#" align="center" alt="Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesorhaan&layout=compact&theme=tokyonight">
+  </a>
+</p>
+<br>
+
 
 - Experienced in Eagle PCB Desgin
 - Experienced in embedded software
